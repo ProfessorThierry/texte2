@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do Campo à Cidade</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Do Campo à Cidade</h1>
+        <nav>
+          <img src="https://imgs.search.brave.com/70CdJKS2TuJJpu8kYwXq2c3OYpNaWYRCjyaYeUE1Br8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hcnF1/aXZvLmRldm1lZGlh/LmNvbS5ici9hcnRp/Z29zL2hlbnJpcXVl/X2dhc3Bhcm90dG8v/dW5pdDNkL2ltYWdl/MDEyLnBuZw" alt="Campo de Agricultura Familiar" class="responsive-image"> 
+          </img>
+          <ul>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#benefits">Benefícios</a></li>
+                <li><a href="#resources">Recursos</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Sobre a Agricultura Familiar</h2>
+        <img src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/531652ae-1ecc-44e0-a8ef-e3323a0ad099/DallEGeneratedImages/dalle-fc8dac02-dd3c-4e68-a6e7-ab885e04a8460251679954702179199400.jpg&dcHint=BrazilSouth&fileToken=e406d30f-95f8-47c9-bdd3-202dd9964dd6" alt="Campo de Agricultura Familiar" class="responsive-image">
+        <p>A agricultura familiar é uma prática que se destaca pela conexão direta entre o produtor rural e o consumidor. Esse modelo de agricultura valoriza o cultivo local, promovendo produtos frescos e sustentáveis. Os pequenos agricultores utilizam técnicas que respeitam o meio ambiente e contribuem para a preservação dos recursos naturais.</p>
+        <p>Os agricultores familiares frequentemente praticam a diversificação de cultivos, o que contribui para uma dieta mais rica e variada. Além disso, a agricultura familiar desempenha um papel crucial na preservação da biodiversidade e na manutenção das tradições culturais e locais.</p>
+    </section>
+
+    <section id="benefits">
+        <h2>Benefícios da Agricultura Familiar</h2>
+        <img src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/531652ae-1ecc-44e0-a8ef-e3323a0ad099/DallEGeneratedImages/dalle-47e68f69-4b63-4197-9615-3e7f75e9786f0251679954477991760400.jpg&dcHint=BrazilSouth&fileToken=e406d30f-95f8-47c9-bdd3-202dd9964dd6" alt="Benefícios da Agricultura Familiar" class="responsive-image">
+      <p>  
+      A agricultura familiar é mais do que uma atividade econômica; é uma forma de vida profundamente conectada à terra e à tradição. Para muitos, cultivar a terra é um ato de amor e legado, passando de geração em geração. Essa prática não só produz alimentos de forma sustentável, mas também preserva a biodiversidade e fortalece as comunidades locais. Feiras e mercados locais são momentos de encontro e troca, valorizando a origem e a história dos alimentos. Em um mundo cada vez mais industrializado, a agricultura familiar nos lembra da importância de valorizar o que é local e sustentável, oferecendo uma conexão especial entre produtores e consumidores.
+        </p>
+    </section>
+
+    <section id="resources">
+        <h2>Recursos e Links Úteis</h2>
+        <strong>Recursos sobre Agricultura Familiar</strong>
+        <p>Para aprender mais sobre a agricultura familiar e apoiar os produtores locais, aqui estão alguns recursos e links úteis:</p>
+        <ul>
+            <li><a href="https://www.sebrae.com.br/sites/PortalSebrae/artigos/agricultura-familiar,1d3c02183eb47410VgnVCM1000004c00210aRCRD" target="_blank">Artigo do SEBRAE sobre Agricultura Familiar</a></li>
+            <li><a href="https://www.embrapa.br/agricultura-familiar" target="_blank">Embrapa: Agricultura Familiar</a></li>
+            <li><a href="https://www.un.org/sustainabledevelopment/sustainable-consumption-production/" target="_blank">Objetivos de Desenvolvimento Sustentável - ONU</a></li>
+        </ul>
+        <p>Se você é um agricultor ou interessado em começar na agricultura familiar, considere consultar essas instituições e participar de eventos locais para se conectar com a comunidade agrícola.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contato</h2>
+        <p>Estamos aqui para ajudar com quaisquer dúvidas ou informações adicionais sobre agricultura familiar. Sinta-se à vontade para entrar em contato conosco através dos seguintes meios:</p>
+        <ul>
+            <li><strong>Email:</strong> rodrigues.thierry@escola.pr.gov.br</li>
+            <li><strong>Telefone:</strong> (44) 999176772</li>
+            <li><strong>Endereço:</strong> Rua don joao, 123, Cidade Gaucha, Pr</li>
+        </ul>
+        <p>Você também pode seguir nossas redes sociais para atualizações e eventos:</p>
+        <ul>
+            <li><a href="https://www.facebook.com/DoCampoACidade" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/DoCampoACidade" target="_blank">Instagram</a></li>
+            <li><a href="https://twitter.com/DoCampoACidade" target="_blank">Twitter</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Do Campo à Cidade. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
